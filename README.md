@@ -1,2 +1,3 @@
-# SampleDesignSystem
-Sample Design System
+# design-system
+
+A sample Design System
